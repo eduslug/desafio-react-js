@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Todoist
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -42,6 +42,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Captura de tela 2022-10-25 150238](https://user-images.githubusercontent.com/38886580/197848491-4683aa18-23af-4d53-83ac-6d592499dac4.png)
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
@@ -56,6 +57,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+
 
 ### Advanced Configuration
 
