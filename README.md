@@ -13,6 +13,12 @@
 
 </p>
 
+
+- [React](https://pt-br.reactjs.org/)
+- [Vite](https://vitejs.dev/guide/)
+- [CSS](https://ejs.co/)
+- [HTML](https://ejs.co/)
+
 ### `npm start`
 
 Executa o aplicativo no modo de desenvolvimento.\
