@@ -13,43 +13,37 @@
 
 </p>
 
+💻Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
-- [Vite](https://vitejs.dev/guide/)
-- [CSS](https://ejs.co/)
+- [JavaScript](https://ejs.co/)
+- [SCSS](https://ejs.co/)
 - [HTML](https://ejs.co/)
 
-### `npm start`
 
-Executa o aplicativo no modo de desenvolvimento.\
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
+🚀 Como executar.
 
-A página será recarregada se você fizer edições.\
-Você também verá erros de lint no console.
+Clone o projeto e acesse a pasta do mesmo.
+```sh
+$ git clone git@github.com:desafio-alura-react-arquivos-estaticos.git
+$ cd organograma
+```
+Para inicialo execute os passos abaixo
 
-### `teste npm`
+```sh
+# instale as dependências
+$ npm install
+```
 
-Inicia o executor de teste no modo de exibição interativa.\
-Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
+```sh
+# iniciar o projeto
+$ npm start
+```
 
-### `npm executar compilação`
+```sh
 
-Compila o aplicativo para produção na pasta `build`.\
-Ele agrupa corretamente o React no modo de produção e otimiza a compilação para o melhor desempenho.
+O app estará disponível no seu browser  pelo endereço http://localhost:3000
+```
 
-A compilação é reduzida e os nomes dos arquivos incluem os hashes.\
-Seu aplicativo está pronto para ser implantado!
-
-Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
-
-### `npm run eject`
-
-**Nota: esta é uma operação unidirecional. Depois de 'ejetar', você não pode voltar!**
-
-Se você não estiver satisfeito com a ferramenta de compilação e as opções de configuração, poderá `ejetar` a qualquer momento. Este comando removerá a dependência de compilação única do seu projeto.
-
-Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc) diretamente em seu projeto para que você tenha controle total sobre eles. Todos os comandos, exceto `eject`, ainda funcionarão, mas eles apontarão para os scripts copiados para que você possa ajustá-los. Neste momento você está por sua conta.
-
-Você não precisa usar `eject`. O conjunto de recursos com curadoria é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que essa ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para isso.
-
-Feito com 💜 by Eduardo 👋🏻 [Entre em contato ao clicar aqui 🚀😊](https://www.linkedin.com/in/eduardo-irineu-dos-santos-134375220/).
+## License MIT 🖊️
+**Desenvolvido com 💜 by Eduardo**
